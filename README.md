@@ -13,7 +13,7 @@
 ## Paradigma funcional de programação
 Baseado no formalismo matemático Cálculo Lambda (Church 1930)
 <p align="left">
-    <img align="center" alt="imagem" src="./paradigmaF.png" width="150" height="100" />
+    <img align="center" alt="imagem" src="./paradigmaF.png" width="800" height="300" />
 </p>
 ## Transparência referencial
 Uma função possui transparência referencial se seu resultado for sempre o mesmo
@@ -120,7 +120,7 @@ public class Program {
 ```
 ## Resumo da aula
 <p align="left">
-    <img align="center" alt="imagem" src="./paradigmaF.png" width="150" height="100" />
+    <img align="center" alt="imagem" src="./paradigmaF.png" width="800" height="300"  />
 </p>
 Cálculo Lambda = formalismo matemático base da programação funcional
 
